@@ -12,15 +12,14 @@ Powercolor\(**AVOID ALL MODELS**\)
 * [PowerColor Red Dragon/Devil RX 580](https://www.powercolor.com/products?id=1492658578&type=1493173705)
 * [PowerColor Red Dragon RX 560/570](https://www.powercolor.com/products?id=1492658578&type=1493173679)
 
-XFX\(**AVOID ALL MODELS**\)
+XFX\(**AVOID VEGA AND 560/460 MODELS**\)
 
 * [XFX Reference RX Vega 56/64](http://xfxforce.com/en-us/products/amd-radeon-vega#*)
 * [XFX Vega 56 Double Dissipation](http://xfxforce.com/en-us/products/amd-radeon-vega/amd-radeon-rx-vega-56-hbm2-8gb-3xdp-hdmi-double-dissipation-rx-vegaldff6)
-* [XFX RX 590 Fatboy](http://xfxforce.com/en-us/products/amd-radeon-rx-500-series#*)
-* [XFX RX 580/570](http://xfxforce.com/en-us/products/amd-radeon-rx-500-series#*)
 * [XFX RX 560](http://xfxforce.com/en-us/products/amd-radeon-rx-500-series#*)
+* [XFX RX 460](http://xfxforce.com/en-us/products/amd-radeon-rx-400-series#*)
 
-Sapphire\(**ONLY VEGA MODELS**\)
+Sapphire\(**AVOID ONLY VEGA MODELS**\)
 
 * [Sapphire Reference Vega 56/64](https://www.sapphiretech.com/en/consumer/21275-02-radeon-rx-vega64-8g-hbm2)
 * [Sapphire NITRO+ RX VEGA 56/64](https://www.sapphiretech.com/en/consumer/nitro-rx-vega64-8g-hbm2)
